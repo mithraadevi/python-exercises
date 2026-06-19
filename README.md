@@ -1,7 +1,5 @@
-# Agentic Engineering & Security Logic Lab
-A specialized repository dedicated to security automation scripts, defensive programming, and intent-driven logic workflows. 
+# Python Exercises
+Practising Python through samll scripts and projectsas I learn.
 
-## Project Overview
-**Status:** Active Development (Workspace initialization)
-**Core Framework:** Developed in alignment with the June 2026 Kaggle & Google Multi-Agent Systems intensive.
-**Current Module:** [Password Complexity Evaluator](./password_checker.ipynb) — practicing deterministic inputs and structural guardrails.
+## Projects
+- **password_checker.py** - checks password based on length, character variety, and common patterns. Built while learning Python Basics during CS50P
