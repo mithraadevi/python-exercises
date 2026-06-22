@@ -8,15 +8,14 @@ Practising Python through samll scripts and projects as I learn.
 - **IPv4_validator.ipynb** - Checks whether a given string is a valid IPv4 address. Validates format (4 segments) and range (0-255 per segment) — a small but practical networking + Python exercise.
 - **login_simulator.ipynb** - A basic login system that locks the user out after 3 failed attempts. Demonstrates a simple brute-force protection mechanism — a fundamental security control used in real authentication systems.
 - **phishing_url_detector.ipynb** - Analyzes suspicious URLs and assigns a risk score based on common phishing patterns.
+  Checks:
+      - Protocol security (HTTPS vs HTTP)
+      - Suspicious keywords (login, verify, paypal, etc.)
+      - IP addresses instead of domain names
 
-Checks:
-- Protocol security (HTTPS vs HTTP)
-- Suspicious keywords (login, verify, paypal, etc.)
-- IP addresses instead of domain names
-
-The detector scans for multiple red flags and provides a verdict:
-- 0 = Safe
-- 1-2 = Caution
-- 3+ = High Risk / Avoid
+  The detector scans for multiple red flags and provides a verdict:
+      - 0 = Safe
+      - 1-2 = Caution
+      - 3+ = High Risk / Avoid
 
 Built as part of cybersecurity education to understand phishing tactics.
