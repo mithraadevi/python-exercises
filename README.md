@@ -13,7 +13,7 @@ Practising Python through samll scripts and projects as I learn.
       - Suspicious keywords (login, verify, paypal, etc.)
       - IP addresses instead of domain names
 
-  The detector scans for multiple red flags and provides a verdict:
+   The detector scans for multiple red flags and provides a verdict:
       - 0 = Safe
       - 1-2 = Caution
       - 3+ = High Risk / Avoid
