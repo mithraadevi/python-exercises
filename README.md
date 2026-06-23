@@ -17,5 +17,7 @@ Practising Python through samll scripts and projects as I learn.
       - 0 = Safe
       - 1-2 = Caution
       - 3+ = High Risk / Avoid
+   Built as part of cybersecurity education to understand phishing tactics.
+- **xor_encryption_decryption.ipyb** - Encrypts text using XOR encryption with a secret key. How it works: The same key that encrypts also decrypts. This is symmetric encryption. XOR is simple but demonstrates the concept — real systems use stronger algorithms like AES.
+- **ping_simulator.ipynb** - Simulates the ping command to test host reachability and latency. Generates realistic response times (10-200ms) and random packet loss to demonstrate how network diagnostics work. Shows min/max/average latency and connection quality.
 
-Built as part of cybersecurity education to understand phishing tactics.
