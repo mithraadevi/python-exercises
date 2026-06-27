@@ -1,5 +1,4 @@
-## Caesar Cipher Encoder/Decoder
+## Caesar Cipher Tool
+A simple encoder/decoder implementing the Caesar Cipher — one of the earliest known encryption techniques. Takes a message and a shift key, then encodes or decodes text by shifting each letter's position in the alphabet.
 
-Encrypts and decrypts messages using the Caesar cipher — a simple substitution cipher that shifts letters by a fixed number.
-
-Built to understand basic encryption concepts and how shift-based ciphers work.
+Built to understand basic substitution cipher logic.
